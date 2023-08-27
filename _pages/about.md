@@ -12,9 +12,8 @@ I am interested in machine learning (especially graph neural networks), explaina
 
 
 
-======
 My quotes:
-
+======
 > Machine learning models would like to search for similarity.
 
 
